@@ -1,2 +1,3 @@
 given N * M matrix. Matrix are sorted.
 The element of next row is greater than the element 
+end element of previous line
